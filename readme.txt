@@ -1,1 +1,1 @@
-vim is a version control system.
+vim is a distributed version control system.
